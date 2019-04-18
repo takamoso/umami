@@ -1,0 +1,34 @@
+{
+  "css": {
+    "selector": {
+      "slotted": {
+        "stats": {
+          "ie": {
+            "6": "n",
+          },
+          "edge": {
+            "12": "n",
+          },
+          "firefox": {
+            "63": "s",
+          },
+          "chrome": {
+            "53": "s",
+          },
+          "safari": {
+            "10.1": "s",
+          },
+          "opera": {
+            "40": "s",
+          },
+          "ios_safari": {
+            "10": "s",
+          },
+          "android_webview": {
+            "Latest": "s",
+          },
+        },
+      }
+    }
+  }
+}
