@@ -1,0 +1,11 @@
+{
+  "name": "umami",
+  "version": "0.0.1",
+  "description": "Cross Browser compatibility data.",
+  "main": "",
+  "author": "takamoso",
+  "license": "MIT",
+  "devDependencies": {
+    "json5": "^2.1.0"
+  }
+}
