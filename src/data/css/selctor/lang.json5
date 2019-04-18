@@ -1,0 +1,35 @@
+{
+  "css": {
+    "selector": {
+      "lang": {
+        "stats": {
+          "ie": {
+            "8": "s",
+            "10": "s -ms-",
+          },
+          "edge": {
+            "12": "s -ms-",
+          },
+          "firefox": {
+            "3": "s",
+          },
+          "chrome": {
+            "15": "s",
+          },
+          "safari": {
+            "4": "s",
+          },
+          "opera": {
+            "10.6": "s",
+          },
+          "ios_safari": {
+            "3": "s",
+          },
+          "android_webview": {
+            "2.2": "s",
+          },
+        },
+      }
+    }
+  }
+}
