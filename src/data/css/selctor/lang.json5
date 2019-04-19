@@ -1,7 +1,7 @@
 {
   "css": {
     "selector": {
-      "lang": {
+      ":lang()": {
         "stats": {
           "ie": {
             "8": "s",
