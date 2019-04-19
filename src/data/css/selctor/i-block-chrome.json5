@@ -1,0 +1,27 @@
+{
+  "css": {
+    "selector": {
+      "::i-block-chrome": {
+        "stats": {
+          "ie": {},
+          "edge": {},
+          "firefox": {},
+          "chrome": {
+            "15": "s",
+            "25": "n",
+          },
+          "safari": {
+            "5.1": "s",
+            "7.1": "n",
+          },
+          "opera": {},
+          "ios_safari": {
+            "5": "s",
+            "7": "n",
+          },
+          "android_webview": {},
+        },
+      }
+    }
+  }
+}
