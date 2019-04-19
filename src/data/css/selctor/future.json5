@@ -1,0 +1,28 @@
+{
+  "css": {
+    "selector": {
+      ":future": {
+        "stats": {
+          "ie": "n",
+          "edge": "n",
+          "firefox": "n",
+          "chrome": {
+            "26": "s",
+          },
+          "safari": {
+            "6.2": "s",
+          },
+          "opera": {
+            "12.1": "s",
+          },
+          "ios_safari": {
+            "7": "s",
+          },
+          "android_webview": {
+            "4.4": "s",
+          },
+        },
+      }
+    }
+  }
+}
