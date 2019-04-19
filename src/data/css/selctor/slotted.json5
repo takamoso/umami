@@ -1,14 +1,10 @@
 {
   "css": {
     "selector": {
-      "slotted": {
+      "::slotted()": {
         "stats": {
-          "ie": {
-            "6": "n",
-          },
-          "edge": {
-            "12": "n",
-          },
+          "ie": {},
+          "edge": {},
           "firefox": {
             "63": "s",
           },
