@@ -3,9 +3,9 @@
     "selector": {
       "::i-block-chrome": {
         "stats": {
-          "ie": {},
-          "edge": {},
-          "firefox": {},
+          "ie": "n",
+          "edge": "n",
+          "firefox": "n",
           "chrome": {
             "15": "s",
             "25": "n",
@@ -14,12 +14,12 @@
             "5.1": "s",
             "7.1": "n",
           },
-          "opera": {},
+          "opera": "n",
           "ios_safari": {
             "5": "s",
             "7": "n",
           },
-          "android_webview": {},
+          "android_webview": "n",
         },
       }
     }

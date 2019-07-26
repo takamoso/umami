@@ -3,8 +3,8 @@
     "selector": {
       "::slotted()": {
         "stats": {
-          "ie": {},
-          "edge": {},
+          "ie": "n",
+          "edge": "n",
           "firefox": {
             "63": "s",
           },
